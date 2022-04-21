@@ -1,5 +1,17 @@
-h1{
+*{
+   margin: 0;
+   box-sizing: border-box;
+}
+
+.text-header{
     color: #c8f3e3;
     font-weight: bolder;
     text-decoration: wavy;
+    margin: 0 auto;
+}
+.text-content{
+    color: #c9a0aa; 
+    padding: 23px;
+    margin: 0 auto
+
 }
